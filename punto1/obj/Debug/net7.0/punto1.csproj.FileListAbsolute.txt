@@ -1,0 +1,28 @@
+F:\Tecnologico de antioquia\Quinto Semestre\Construccion IV\Taller 2\punto1\bin\Debug\net7.0\punto1.exe
+F:\Tecnologico de antioquia\Quinto Semestre\Construccion IV\Taller 2\punto1\bin\Debug\net7.0\punto1.deps.json
+F:\Tecnologico de antioquia\Quinto Semestre\Construccion IV\Taller 2\punto1\bin\Debug\net7.0\punto1.runtimeconfig.json
+F:\Tecnologico de antioquia\Quinto Semestre\Construccion IV\Taller 2\punto1\bin\Debug\net7.0\punto1.dll
+F:\Tecnologico de antioquia\Quinto Semestre\Construccion IV\Taller 2\punto1\bin\Debug\net7.0\punto1.pdb
+F:\Tecnologico de antioquia\Quinto Semestre\Construccion IV\Taller 2\punto1\obj\Debug\net7.0\punto1.GeneratedMSBuildEditorConfig.editorconfig
+F:\Tecnologico de antioquia\Quinto Semestre\Construccion IV\Taller 2\punto1\obj\Debug\net7.0\punto1.AssemblyInfoInputs.cache
+F:\Tecnologico de antioquia\Quinto Semestre\Construccion IV\Taller 2\punto1\obj\Debug\net7.0\punto1.AssemblyInfo.cs
+F:\Tecnologico de antioquia\Quinto Semestre\Construccion IV\Taller 2\punto1\obj\Debug\net7.0\punto1.csproj.CoreCompileInputs.cache
+F:\Tecnologico de antioquia\Quinto Semestre\Construccion IV\Taller 2\punto1\obj\Debug\net7.0\punto1.dll
+F:\Tecnologico de antioquia\Quinto Semestre\Construccion IV\Taller 2\punto1\obj\Debug\net7.0\refint\punto1.dll
+F:\Tecnologico de antioquia\Quinto Semestre\Construccion IV\Taller 2\punto1\obj\Debug\net7.0\punto1.pdb
+F:\Tecnologico de antioquia\Quinto Semestre\Construccion IV\Taller 2\punto1\obj\Debug\net7.0\punto1.genruntimeconfig.cache
+F:\Tecnologico de antioquia\Quinto Semestre\Construccion IV\Taller 2\punto1\obj\Debug\net7.0\ref\punto1.dll
+C:\Users\yonni\Downloads\Entregable2\punto1\bin\Debug\net7.0\punto1.exe
+C:\Users\yonni\Downloads\Entregable2\punto1\bin\Debug\net7.0\punto1.deps.json
+C:\Users\yonni\Downloads\Entregable2\punto1\bin\Debug\net7.0\punto1.runtimeconfig.json
+C:\Users\yonni\Downloads\Entregable2\punto1\bin\Debug\net7.0\punto1.dll
+C:\Users\yonni\Downloads\Entregable2\punto1\bin\Debug\net7.0\punto1.pdb
+C:\Users\yonni\Downloads\Entregable2\punto1\obj\Debug\net7.0\punto1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yonni\Downloads\Entregable2\punto1\obj\Debug\net7.0\punto1.AssemblyInfoInputs.cache
+C:\Users\yonni\Downloads\Entregable2\punto1\obj\Debug\net7.0\punto1.AssemblyInfo.cs
+C:\Users\yonni\Downloads\Entregable2\punto1\obj\Debug\net7.0\punto1.csproj.CoreCompileInputs.cache
+C:\Users\yonni\Downloads\Entregable2\punto1\obj\Debug\net7.0\punto1.dll
+C:\Users\yonni\Downloads\Entregable2\punto1\obj\Debug\net7.0\refint\punto1.dll
+C:\Users\yonni\Downloads\Entregable2\punto1\obj\Debug\net7.0\punto1.pdb
+C:\Users\yonni\Downloads\Entregable2\punto1\obj\Debug\net7.0\punto1.genruntimeconfig.cache
+C:\Users\yonni\Downloads\Entregable2\punto1\obj\Debug\net7.0\ref\punto1.dll
